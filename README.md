@@ -48,7 +48,7 @@ Prompt: "A robot(full body view) painting a portrait nearby a green valley" Gene
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/18d47f45-b959-461e-9c08-234bbabae965" />
 
-![Uploading image.png…]()
+<img width="3136" height="1344" alt="image" src="https://github.com/user-attachments/assets/35116251-3781-408d-90b2-c0b3d63babb6" />
 
 
 Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
